@@ -1,0 +1,15 @@
+[package]
+name = "forward"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# async-ssh2-lite = "*"
+daemonize = "^0.4"
+structopt = "*"
+# smol = "*"
+# async-net = "*"
+# futures-lite = "*"
+anyhow = "*"
